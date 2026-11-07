@@ -1,0 +1,17 @@
+# Eclipse / STS workspace metadata
+.metadata/
+.settings/
+.classpath
+.project
+*.class
+target/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Terraform state
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
